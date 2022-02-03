@@ -1,0 +1,11 @@
+chrome-gnome-shell
+gdm-tools
+intellij-idea-ultimate-edition
+mintstick
+spotify
+teams
+teamviewer
+timeshift
+typora-free
+visual-studio-code-bin
+whatsapp-for-linux
