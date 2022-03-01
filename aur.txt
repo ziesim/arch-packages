@@ -1,7 +1,5 @@
-chrome-gnome-shell
-gdm-tools
 intellij-idea-ultimate-edition
-mintstick
+nerd-fonts-hack
 spotify
 teams
 teamviewer
