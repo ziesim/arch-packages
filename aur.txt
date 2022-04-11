@@ -1,3 +1,4 @@
+autotiling
 intellij-idea-ultimate-edition
 mkinitcpio-numlock
 nerd-fonts-hack
@@ -7,4 +8,3 @@ teamviewer
 timeshift
 typora-free
 visual-studio-code-bin
-whatsapp-for-linux

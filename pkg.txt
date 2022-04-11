@@ -17,7 +17,7 @@ bash-completion
 bind
 binutils
 bison
-crda
+cheese
 cronie
 cups
 cups-pdf
@@ -155,7 +155,6 @@ os-prober
 pacman
 patch
 pavucontrol
-pcurses
 pdfarranger
 php
 picom
@@ -290,3 +289,4 @@ xorg-xwininfo
 xorg-xwud
 xreader
 yad
+youtube-dl
