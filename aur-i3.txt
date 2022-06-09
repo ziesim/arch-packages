@@ -1,10 +1,11 @@
 autotiling
 intellij-idea-ultimate-edition
+oh-my-zsh-git
 mkinitcpio-numlock
-nerd-fonts-hack
 spotify
-teams
+sublime-text-4
 teamviewer
 timeshift
+ttf-comic-mono-git
 typora-free
 visual-studio-code-bin

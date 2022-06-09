@@ -1,0 +1,8 @@
+intellij-idea-ultimate-edition
+oh-my-zsh-git
+spotify
+sublime-text-4
+timeshift
+ttf-comic-mono-git
+typora-free
+visual-studio-code-bin
