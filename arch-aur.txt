@@ -1,0 +1,7 @@
+archlinux-appstream-data-pamac
+intellij-idea-ultimate-edition
+pamac-aur
+spotify
+timeshift
+typora-free
+visual-studio-code-bin
