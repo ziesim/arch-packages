@@ -6,4 +6,3 @@ spotify
 timeshift
 typora-free
 visual-studio-code-bin
-yay
