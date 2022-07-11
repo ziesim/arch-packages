@@ -24,6 +24,7 @@ dialog
 discord
 dosfstools
 efibootmgr
+efitools
 electron
 eog
 epiphany
@@ -132,6 +133,7 @@ neofetch
 neovim
 network-manager-applet
 networkmanager
+networkmanager-openconnect
 nfs-utils
 nodejs
 npm
@@ -139,6 +141,7 @@ ntfs-3g
 ntp
 numlockx
 obs-studio
+openconnect
 orca
 os-prober
 pacman

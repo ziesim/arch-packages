@@ -1,6 +1,9 @@
 archlinux-appstream-data-pamac
 chrome-gnome-shell
+gdm-settings
 intellij-idea-ultimate-edition
+megasync-bin
+nautilus-megasync
 pamac-aur
 spotify
 timeshift
