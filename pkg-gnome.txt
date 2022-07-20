@@ -71,6 +71,7 @@ gnome-music
 gnome-photos
 gnome-power-manager
 gnome-remote-desktop
+gnome-screenshot
 gnome-session
 gnome-settings-daemon
 gnome-shell
@@ -137,7 +138,6 @@ neovim
 network-manager-applet
 networkmanager
 nfs-utils
-nodejs
 npm
 ntfs-3g
 ntp
@@ -185,6 +185,7 @@ vim
 vino
 vlc
 vulkan-radeon
+warpinator
 wget
 which
 whois
