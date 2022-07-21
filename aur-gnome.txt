@@ -1,5 +1,6 @@
 archlinux-appstream-data-pamac
 chrome-gnome-shell
+fingerprint-gui
 gdm-settings
 intellij-idea-ultimate-edition
 megasync-bin
@@ -9,3 +10,4 @@ spotify
 timeshift
 typora-free
 visual-studio-code-bin
+yay

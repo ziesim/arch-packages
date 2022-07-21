@@ -145,6 +145,7 @@ numlockx
 obs-studio
 orca
 os-prober
+otf-hermit
 pacman
 patch
 pavucontrol
@@ -176,7 +177,6 @@ transmission-gtk
 ttf-cascadia-code
 ttf-dejavu
 ttf-opensans
-ttf-ubuntu-font-family
 ufw
 unrar
 unzip
